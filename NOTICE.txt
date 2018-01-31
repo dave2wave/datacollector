@@ -51,13 +51,13 @@ This product includes components of the following software:
   Apache Flume                    Apache License 2.0
   Apache Geronimo                 Apache License 2.0
   Apache Hadoop                   Apache License 2.0
-  Apache Hbase                    Apache License 2.0
+  Apache HBase                    Apache License 2.0
   Apache Hive                     Apache License 2.0
   Apache HTrace                   Apache License 2.0
   Apache HttpComponents           Apache License 2.0
   Apache Ivy                      Apache License 2.0
   Apache Kafka                    Apache License 2.0
-  Apache Log4J                    Apache License 2.0
+  Apache Log4j                    Apache License 2.0
   Apache Lucene                   Apache License 2.0
   Apache Parquet                  Apache License 2.0
   Apache Solr                     Apache License 2.0
@@ -65,7 +65,7 @@ This product includes components of the following software:
   Apache Thrift                   Apache License 2.0
   Apache Velocity                 Apache License 2.0
   Apache Xerces                   Apache License 2.0
-  Apache Zookeeper                Apache License 2.0
+  Apache ZooKeeper                Apache License 2.0
   ASM                             BSD License
   Automaton                       BSD License
   Avro                            Apache License 2.0
